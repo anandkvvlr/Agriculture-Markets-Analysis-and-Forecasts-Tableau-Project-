@@ -55,11 +55,24 @@ Collection of different commodities price in different markets and time span.
 
 ![image](https://user-images.githubusercontent.com/88075268/148681980-bc142c8f-115e-424f-9cf5-d5d72d383a75.png)
 
-![image](https://user-images.githubusercontent.com/88075268/148681990-87e299b5-48d6-4e4e-83f4-ec26e6c7fd01.png)
+![image](https://user-images.githubusercontent.com/88075268/148682117-8b6adc72-c8ed-402d-9257-05e4b29b7a1a.png)
 
-![image](https://user-images.githubusercontent.com/88075268/148682000-c902d041-9a41-46bd-bb15-9264e94abfd0.png)
+![image](https://user-images.githubusercontent.com/88075268/148682103-fcead586-4a92-495e-b4f5-0a12cd206d43.png)
 
 ![image](https://user-images.githubusercontent.com/88075268/148682023-39e3ad3e-c32d-4a91-8b43-0951290f6411.png)
+
+### Conclusions
+    -In this work, multiple dashboards and visualisations have been made. 
+    -Various Inferences for modal price with multiple dimensions have been given. 
+    -Forecasting for each commodities are presented and suggestions have been made for future business perception in various locations of west Bengal. 
+    -This project will help agriculture industry to adopt cutting edge data analytical techniques to maximize agricultural productivity and minimize crop loss due to various          factors.
+    -We would like to emphasize that more sophisticated and state of the art statistical techniques can be used utilized to this domain to bring out better forecasting and            prediction in future.
+    -We conclude that Onion of Variety Nasik has very highest sale price also high in demand and Apple has highest price but has seasonal demand.
+    -For Onion and Potato Burdwana and Nadia district giving increased forecasting of modal price. 
+    -On the other hand, Cabbage will be 3000 rs./quintal in Kolakata sealdah koley market also second best will be Nadia Ranaghat market with 2740 rs./quintal. Apart from these      commodities Banana is having forecasting of 2248 rs/quintal in Mechau market. 
+
+
+
 
 
 
