@@ -18,3 +18,11 @@ Inadequate features for forecasting.
 Collection of different commodities price in different markets and time span.
 
 ### Data Analysis Pipeline
+  Business Understanding
+  Project Architecture
+  Data Collection
+Data Understanding
+Data Analysis and Forecasting
+Dashboards 
+![image](https://user-images.githubusercontent.com/88075268/148681665-30f01e19-3c62-4667-ae53-7fdad08fd9a7.png)
+
