@@ -20,7 +20,7 @@ Collection of different commodities price in different markets and time span.
 ### Data Analysis Pipeline
     Business Understanding
     Project Architecture
-  ####Data Collection
-  #####Data Understanding
-  #####Data Analysis and Forecasting
-  #####Dashboards 
+    Data Collection
+    Data Understanding
+    Data Analysis and Forecasting
+    Dashboards 
