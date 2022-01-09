@@ -71,9 +71,8 @@ Collection of different commodities price in different markets and time span.
     -For Onion and Potato Burdwana and Nadia district giving increased forecasting of modal price. 
     -On the other hand, Cabbage will be 3000 rs./quintal in Kolakata sealdah koley market also second best will be Nadia Ranaghat market with 2740 rs./quintal. Apart from these      commodities Banana is having forecasting of 2248 rs/quintal in Mechau market. 
 
+### Future Scope
+    -This project will help agriculture industry to adopt cutting edge data analytical techniques to maximize agricultural productivity and minimize crop loss due to various          factors.
 
-
-
-
-
+    -We would like to emphasize that more sophisticated and state of the art statistical techniques can be used utilized to this domain to bring out better forecasting and            prediction in future.
 
