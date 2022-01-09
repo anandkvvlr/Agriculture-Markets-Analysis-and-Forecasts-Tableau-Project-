@@ -27,4 +27,9 @@ Collection of different commodities price in different markets and time span.
 
 ![image](https://user-images.githubusercontent.com/88075268/148681791-a1e03a64-c184-4e42-af53-ebab1cf9cdc4.png)
 
+![image](https://user-images.githubusercontent.com/88075268/148681835-75898a8e-65a7-4570-9bc7-e8f2c277371e.png)
+
 ![image](https://user-images.githubusercontent.com/88075268/148681800-d6a5728b-d6b1-499b-b413-dbe166faeb7e.png)
+
+### Data Cleansing
+
