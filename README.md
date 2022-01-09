@@ -3,8 +3,8 @@
 ## Project Goals and Constraints
 
 ### Objective
-  #####To demonstrate the basic information of markets, varieties and grades of various commodities. 
-  #####Analysing the price dependencies of different commodities over time and locations of West Bengal.
+    To demonstrate the basic information of markets, varieties and grades of various commodities. 
+    Analysing the price dependencies of different commodities over time and locations of West Bengal.
 Maximise the production of future demand commodity.
 To predict best market price for the crops based on previous years.
 To provide the forecasting of various commodities for given modal price. 
@@ -18,8 +18,8 @@ Inadequate features for forecasting.
 Collection of different commodities price in different markets and time span.
 
 ### Data Analysis Pipeline
-  ####Business Understanding
-  ####Project Architecture
+    Business Understanding
+    Project Architecture
   ####Data Collection
   #####Data Understanding
   #####Data Analysis and Forecasting
